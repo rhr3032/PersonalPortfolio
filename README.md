@@ -24,7 +24,7 @@ Also skilled in Mobile App UI Design | Web Design | WordPress Customization | Se
 ### E-Mail: contact.raisulrafi@gmail.com
 ### [Resume](https://nuysdev.netlify.app/) | [Instagram](https://instagram.com/rhr.raisulrafi) | [Twitter](https://twitter.com/rhr_raisulrafi) | [LinkedIn](https://linkedin.com/in/rhr3032) | [Behance](https://behance.net/rhr3032) 
 ##
-## Website: [NUYsDev](https://rhr3032.github.io/PersonalPortfolio/)
+## Website: [NUYsDev](https://nuysdzin.vercel.app/)
 
 <p>&copy; 2025 NUYsDev | All Rights Reserved.</p>
 
