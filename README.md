@@ -1,5 +1,5 @@
 # Raisul Hasan Rafi | Personal Portfolio 🖥️
-## [Preview](#) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/PersonalPortfolio/) | [UI Design](https://rhr3032.github.io/PersonalPortfolio/)
 
 
 ### Include this Portfolio Website ➡️
@@ -24,7 +24,7 @@ Also skilled in Mobile App UI Design | Web Design | WordPress Customization | Se
 ### E-Mail: contact.raisulrafi@gmail.com
 ### [Resume](https://nuysdev.netlify.app/) | [Instagram](https://instagram.com/rhr.raisulrafi) | [Twitter](https://twitter.com/rhr_raisulrafi) | [LinkedIn](https://linkedin.com/in/rhr3032) | [Behance](https://behance.net/rhr3032) 
 ##
-## Website: [NUYsDev](https://nuysdev.netlify.app/)
+## Website: [NUYsDev](https://rhr3032.github.io/PersonalPortfolio/)
 
 <p>&copy; 2025 NUYsDev | All Rights Reserved.</p>
 
