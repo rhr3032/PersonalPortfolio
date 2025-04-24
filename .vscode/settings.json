@@ -1,0 +1,5 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "workbench.activityBar.iconClickBehavior": "toggle"
+}
